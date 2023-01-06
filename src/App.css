@@ -28,6 +28,13 @@
   color: #61dafb;
 }
 
+.container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+ }
+ 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
